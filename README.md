@@ -3,6 +3,8 @@ _Education should be free and accessible to all_
 
 
 II.PROJECT V - FREE NET FREE EDUCATION
+
+
 This program has been developed to ensure educational equality.         
 The Internet should be free.
 All parameters are released as open source and developers can use it.
