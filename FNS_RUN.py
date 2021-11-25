@@ -3,22 +3,15 @@ from __future__ import print_function
 import time
 import sys
 import pandas as pd
-
-try:
-    
-    from optparse import OptionParser
-    from bs4 import BeautifulSoup
-    import warnings
-    import requests
+from optparse import OptionParser
+from bs4 import BeautifulSoup
+import warnings
+import requests
             
-    warnings.filterwarnings(action="ignore",message="CHECK PYTHON VERSION")
-    warnings.filterwarnings(action="ignore",message="ALREADY IMPORTED",category=UserWarning)
-    warnings.filterwarnings(action="ignore",category=DeprecationWarning)
-    
-except KeyboardInterrupt:
-    
-    ERR_MESS = "MISSING MODULE! CHECK YOUR OS SYSTEM OR LIBRARIES"
-    sys.exit(f"PERMISSION DENIED! {ERR_MESS} AND TRY AGAIN!")
+warnings.filterwarnings(action="ignore",message="CHECK PYTHON VERSION")
+warnings.filterwarnings(action="ignore",message="ALREADY IMPORTED",category=UserWarning)
+warnings.filterwarnings(action="ignore",category=DeprecationWarning)
+
 
 
 
