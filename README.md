@@ -2,7 +2,7 @@
 _Education should be free and accessible to all_
 
 
-**II.PROJECT V - EDUCATION**
+II.PROJECT V - FREE NET FREE EDUCATION
 
 
       ## ##   ## ##          ## ####          
