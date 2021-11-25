@@ -1,4 +1,6 @@
 requests==2.25.1
 optparser==1.5.3
+optparse-pretty==0.1.1
 bs4==4.9.3
+optparse-pretty
 pandas==1.0.5
