@@ -1,3 +1,5 @@
+CREDIT : Baris Dincer author of this code 
+
 # Free Net Free Education
 _Education should be free and accessible to all_
 
